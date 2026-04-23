@@ -129,14 +129,14 @@
 <header>
   <div class="logo">exodus</div>
   <!-- replace link -->
-  <a class="cta" href="https://discord.gg/YOUR-LINK" target="_blank">join</a>
+  <a class="cta" href="https://discord.gg/Q5qShnsEJH" target="_blank">join</a>
 </header>
 
 <section class="hero">
   <h1><span>exodus</span> gives you the edge</h1>
   <p>fast, stable, and built for people who don’t want limits</p>
 
-  <a class="main-btn" href="https://discord.gg/YOUR-LINK" target="_blank">
+  <a class="main-btn" href="https://discord.gg/Q5qShnsEJH" target="_blank">
     get access
   </a>
 </section>
